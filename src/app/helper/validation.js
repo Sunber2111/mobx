@@ -1,0 +1,3 @@
+export const checkName = name=>{
+    return name.lenght > 10 && .....
+}
